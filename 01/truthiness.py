@@ -5,7 +5,7 @@ for item in samples:
   if item:
     print(repr(item), "-> Truthy")
   else:
-    print(repr(item), "Falsy")
+    print(repr(item), "-> Falsy")
 
 #f_strings
 name = "Hijbullah"
