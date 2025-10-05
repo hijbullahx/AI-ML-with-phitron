@@ -7,3 +7,4 @@ for i in range(5):
   else:
     label = "odd"
   print(i, "->", label)
+  
